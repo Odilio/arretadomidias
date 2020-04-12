@@ -22,7 +22,7 @@ a.navy-link {
   text-decoration: none;
 }
 a.navy-link:hover {
-  color: #17a185;
+  color: rgb(237,135,183);
 }
 section p {
   color: #aeaeae;
@@ -100,7 +100,7 @@ h1 {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  background: #17a185;
+  background: rgb(237,135,133);
   color: #fff;
 }
 .navbar-default .navbar-brand {
@@ -316,7 +316,7 @@ h1 {
   border-radius: 50px;
 }
 .social-icon a:hover {
-  background: #17a185;
+  background: rgb(237,135,183);;
 }
 .img-small {
   height: 88px;
